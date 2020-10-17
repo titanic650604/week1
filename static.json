@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "buyar"
+      "X-Author": "buyar",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
